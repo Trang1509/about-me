@@ -99,9 +99,9 @@ span{
     font-weight: 700;
     line-height: 1.3;
 }
-/* .home-content p{
+.home-content p{
     font-size: 1.6rem;
-} */
+}
 .social-media a{
     display: inline-flex;
     justify-content: center;
